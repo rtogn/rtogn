@@ -5,7 +5,7 @@
 <img width="668" alt="juno" src="https://user-images.githubusercontent.com/60898339/221718052-36a9eeda-0d96-4dac-9da2-781c5b1990f2.png">
 
 
-My name is Robert Tognoni. I am a Senior Computer Science Student at Georgia State University as well as a graduate of Auburn University (B.S. Marine Biology 2012). I have returned to school to persue Computer Science after finding that the subject clicked with me during my previous work. After this round of school I want to pursue a Masters in CS (or related), time and money permitting. 
+My name is Robert Tognoni. I am a working Software Developer and graduate of Georgia State University in Computer Science, as well as a graduate of Auburn University (B.S. Marine Biology 2012). I returned to school to persue Computer Science after finding that the subject clicked with me during my previous work. After this round of school I want to pursue a Masters in CS (or related), time and money permitting. 
 
 My technology interests include machine learning, game ai programming, image recognition, simulations, data science and task automation. I am most familiar with Python and C#, but I have dabbled in a wide variety of programming languages.
 
