@@ -11,7 +11,7 @@ My technology interests include machine learning, game ai programming, image rec
 
 Above is pictured my dog, Juno. She is a Silken Windhound which you have never heard of. They are from Texas and are indeed, silky soft, guaranteed. She is emblematic of how I would like to live, but never find myself approaching.  
 
-### Programing Languages I am familiar with: 
+### Programing Languages I love (or love to hate): 
 <div>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
